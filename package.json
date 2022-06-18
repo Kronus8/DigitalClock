@@ -1,0 +1,18 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "A simple digital clock",
+  "main": "script.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./styles.css --watch"
+  },
+  "keywords": [],
+  "author": "Kronus",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.3"
+  },
+  "dependencies": {
+    "daisyui": "^2.15.4"
+  }
+}
